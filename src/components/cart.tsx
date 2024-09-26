@@ -3,6 +3,8 @@ import { cart, removeItemFromCart, subtotal } from '../stores/cart';
 import styles from './cart.module.css';
 import { Show, createSignal } from 'solid-js';
 
+// SOLID-JS
+
 function formatCurrency(amount: number) {
 	return new Intl.NumberFormat('en-US', {
 		currency: 'usd',

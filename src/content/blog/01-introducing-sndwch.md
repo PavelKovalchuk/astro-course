@@ -6,4 +6,4 @@ description: >
   Sandwiches have divided us for too long. It’s time to come together.
 ---
 
-Sandwiches have divided us for too long. It’s time to come together.
+Sandwiches have divided us for <b>too long</b>. It’s time to come together.
